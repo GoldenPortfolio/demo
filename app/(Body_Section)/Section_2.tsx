@@ -54,7 +54,7 @@ function Section_2() {
       </div>
       <div className=" w-[50%] h-full hidden 1140:flex flex-row items-center  select-none justify-between ">
         <Image
-          src="/mainIconsdark.svg"
+          src="/QuantumShield2.png"
           width={708}
           height={709}
           alt=""

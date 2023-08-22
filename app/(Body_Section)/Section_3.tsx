@@ -56,8 +56,8 @@ function Section_3() {
           variants={textVariant(3)}
           className=" text-[17px] font-medium text-center text-gray-300 flex flex-col "
         >
-          <span>Have your data quantum encrypted with the Quantum Key Distribution algorihtm. </span>
-          <span> Leverage the principals of quantum mechanics to securly exhcange cryptographic keys between parties making your data resistant to easedropping and hacks. </span>
+          <span>Have your data quantum encrypted with the Quantum Key Distribution algorithm. </span>
+          <span> Leverage the principals of quantum mechanics and GET A FREE NETWORK SCAN TO MAKE YOUR COMPUTER RUN FASTER! </span>
         </motion.div>
       </div>
       <div className=" w-[1500px]  h-full z-[-10] absolute    flex flex-row   items-start justify-center ">
